@@ -29,7 +29,7 @@ Welcome to the Flip Sign-In/Sign-Up Page project! This simple web application pr
 
 ## video
 
-<video src="sign-in-up%20-%20Google%20Chrome%202023-11-15%2013-58-13.mp4" controls title="Title"></video>
+<video src="Sign-In-Up_Video.mp4" controls title="Title"></video>
 
 
 
